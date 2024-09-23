@@ -1,4 +1,4 @@
-Algoritmo HolaMundo
+Algoritmo holaMundo
 	// El pseudocódigo está diseñado para la lectura humana. Es una forma sencilla de plantear la solución de un algoritmo.
 	// Un algoritmo es un conjunto de sentencias o una serie de pasos que se ejecutan en un programa hasta obtener un resultado deseado.
 	// Un diagrama de flujo es la representación gráfica de nuestro algoritmo.
