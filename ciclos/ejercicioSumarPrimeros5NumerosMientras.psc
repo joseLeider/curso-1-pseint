@@ -1,6 +1,6 @@
 Algoritmo ejercicioSumarPrimeros5Numeros
 	
-	Definir num, acumuladorSuma, max Como Entero
+	Definir contador, acumuladorSuma, max Como Entero
 	acumuladorSuma = 0
 	max = 5
 	contador = 1 // se inicializa fuera del ciclo
