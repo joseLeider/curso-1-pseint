@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo arreglos
 	
 	// Un arreglo es un conjunto de elementos que accedemos con el mismo nombre
 	// Un arreglo es una colección de elementos del mismo tipo.
